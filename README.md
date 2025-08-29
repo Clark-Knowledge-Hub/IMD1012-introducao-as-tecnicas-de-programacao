@@ -13,9 +13,9 @@ A disciplina cobre os seguintes tópicos fundamentais, que estruturam a organiza
 - [x] **1. Introdução ao Computador:** Conceitos básicos sobre hardware, software e a lógica de funcionamento de um computador.
 - [x] **2. Ferramentas de Programação:** Configuração do ambiente de desenvolvimento, uso do compilador (GCC), editor de código e terminal.
 - [x] **3. Variáveis e Operadores:** Tipos de dados primitivos, declaração de variáveis, operadores aritméticos, lógicos e relacionais.
-- [ ] **4. Estruturas de Controle:**
-  - [ ] Condicionais (`if`, `else`, `switch`).
-  - [ ] Laços de Repetição (`while`, `for`, `do-while`).
+- [x] **4. Estruturas de Controle:**
+  - [x] Condicionais (`if`, `else`, `switch`).
+  - [x] Laços de Repetição (`while`, `for`, `do-while`).
 - [ ] **5. Funções:** Declaração, implementação, passagem de parâmetros (por valor e por referência) e escopo de variáveis.
 - [ ] **6. Ponteiros:** Conceitos de memória, endereçamento, aritmética de ponteiros e sua aplicação em funções.
 - [ ] **7. Arranjos, Matrizes e Strings:**
